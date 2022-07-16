@@ -1,0 +1,15 @@
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/bin/Debug/net6.0/ReaClassMiniTask
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/bin/Debug/net6.0/ReaClassMiniTask.deps.json
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/bin/Debug/net6.0/ReaClassMiniTask.runtimeconfig.json
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/bin/Debug/net6.0/ReaClassMiniTask.dll
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/bin/Debug/net6.0/ReaClassMiniTask.pdb
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.csproj.AssemblyReference.cache
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.AssemblyInfoInputs.cache
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.AssemblyInfo.cs
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.csproj.CoreCompileInputs.cache
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.dll
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/refint/ReaClassMiniTask.dll
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.pdb
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ReaClassMiniTask.genruntimeconfig.cache
+/Users/serkan.cebar/gitlab.trendyol.com/ReaClassMiniTask/ReaClassMiniTask/obj/Debug/net6.0/ref/ReaClassMiniTask.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaClassMiniTask", "ReaClassMiniTask\ReaClassMiniTask.csproj", "{44C78BFE-C8B0-4AA9-BC8B-9D68D7170A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaClassMiniTask.UnitTests", "ReaClassMiniTask.UnitTests\ReaClassMiniTask.UnitTests.csproj", "{DAAC3157-752B-4B10-9744-72BF217697E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C78BFE-C8B0-4AA9-BC8B-9D68D7170A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C78BFE-C8B0-4AA9-BC8B-9D68D7170A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C78BFE-C8B0-4AA9-BC8B-9D68D7170A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C78BFE-C8B0-4AA9-BC8B-9D68D7170A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAC3157-752B-4B10-9744-72BF217697E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAC3157-752B-4B10-9744-72BF217697E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAC3157-752B-4B10-9744-72BF217697E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAC3157-752B-4B10-9744-72BF217697E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
